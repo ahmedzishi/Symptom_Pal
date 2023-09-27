@@ -1,6 +1,10 @@
 # symptom_pal
 
-> SymptomPal Symptom Checker
+SymptomPal Symptom Checker
+
+https://symptompal.com/
+
+A symptom checker app using Vue/Vuex/Firebase Javascript and APIMedic priaid symptom checker API.
 
 ## Build Setup
 
